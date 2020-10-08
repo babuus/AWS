@@ -33,8 +33,8 @@ class GraphqlClient:
         return response.decode('utf8')
 
 gq_client = GraphqlClient(
-    endpoint='https://oz4b5hlxezavtiju6rtvs4xpji.appsync-api.ap-south-1.amazonaws.com/graphql',
-    headers={'x-api-key': 'da2-uxkbwxcvyzae7fc6ge3mfaax3m'}
+    endpoint='https://xxxxxxxxxxxxxxxxxrtvs4xpji.appsync-api.ap-south-1.amazonaws.com/graphql',
+    headers={'x-api-key': 'xxx-xxxxxxxxxxxxxxx3mfaax3m'}
 )
 
 var = {
