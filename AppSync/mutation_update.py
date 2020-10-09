@@ -44,7 +44,10 @@ var = {
     "category": "Fridge freezers",
     "collection": "",
     "entities": [{"name": "Bixby"},{"name":"Ace Pro Ultra"}],
-    "productAttributes": {"key": "dd","value": "je"}
+    "productAttributes": {"key": "dd","value": "je"},
+    "dimension": {"H": "1517","L": "501","W": "560"},
+    "sku": "10188912",
+    "name": "LOGIK LFC50W19 50/50 Fridge Freezer - White"
   }
 }
 
