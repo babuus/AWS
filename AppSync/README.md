@@ -6,9 +6,9 @@
   
   Query - Get data from the source.
   
+    - you always change the query as you want. ( get to the graphQl docs for more details ) 
+  
   Mutation : Put data in the source.
-
-  In the graphQL part change the query/mutation you need.
-  - var is the input you have to give for mutation.
-  - if there is no mutation then delete the variables from result = gq_client.execute.
+  
+    - var is the input you have to give for mutation.
   
