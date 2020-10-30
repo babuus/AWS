@@ -1,8 +1,4 @@
   # Appsync python
-
-  - Edit appsync the endpoint:'https://xxxxxxxxxxxxxxxxxrtvs4xpji.appsync-api.ap-south-1.amazonaws.com/graphql'
-
-  - Edit 'x-api-key': 'xxx-xxxxxxxxxxxxxxx3mfaax3m'
   
   Query - Get data from the source.
   
@@ -12,3 +8,8 @@
   
     - var is the input you have to give for mutation.
   
+  Change the bellow:
+  
+  - Edit appsync the endpoint:'https://xxxxxxxxxxxxxxxxxrtvs4xpji.appsync-api.ap-south-1.amazonaws.com/graphql'
+
+  - Edit 'x-api-key': 'xxx-xxxxxxxxxxxxxxx3mfaax3m'
