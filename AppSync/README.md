@@ -13,3 +13,8 @@
   - Edit appsync the endpoint:'https://xxxxxxxxxxxxxxxxxrtvs4xpji.appsync-api.ap-south-1.amazonaws.com/graphql'
 
   - Edit 'x-api-key': 'xxx-xxxxxxxxxxxxxxx3mfaax3m'
+  
+  
+  Checkout the medium blog for more info
+  
+  https://medium.com/@usbabu300/getting-data-with-python-using-graphql-appsync-6124ecc9384c
